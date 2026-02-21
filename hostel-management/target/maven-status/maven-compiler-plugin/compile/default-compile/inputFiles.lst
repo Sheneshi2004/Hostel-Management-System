@@ -1,0 +1,8 @@
+/Users/akilaudara/Desktop/Friends/seneshi/hostel/hostel-management/src/main/java/com/hostel/hostel_management/Controller/AuthController.java
+/Users/akilaudara/Desktop/Friends/seneshi/hostel/hostel-management/src/main/java/com/hostel/hostel_management/DTO/LoginRequest.java
+/Users/akilaudara/Desktop/Friends/seneshi/hostel/hostel-management/src/main/java/com/hostel/hostel_management/HostelManagementApplication.java
+/Users/akilaudara/Desktop/Friends/seneshi/hostel/hostel-management/src/main/java/com/hostel/hostel_management/Model/Role.java
+/Users/akilaudara/Desktop/Friends/seneshi/hostel/hostel-management/src/main/java/com/hostel/hostel_management/Model/User.java
+/Users/akilaudara/Desktop/Friends/seneshi/hostel/hostel-management/src/main/java/com/hostel/hostel_management/Repo/UserRepository.java
+/Users/akilaudara/Desktop/Friends/seneshi/hostel/hostel-management/src/main/java/com/hostel/hostel_management/Security/JwtUtil.java
+/Users/akilaudara/Desktop/Friends/seneshi/hostel/hostel-management/src/main/java/com/hostel/hostel_management/Security/SecurityConfig.java

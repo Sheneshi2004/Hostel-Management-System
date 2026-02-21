@@ -1,0 +1,8 @@
+com/hostel/hostel_management/DTO/LoginRequest.class
+com/hostel/hostel_management/Repo/UserRepository.class
+com/hostel/hostel_management/Controller/AuthController.class
+com/hostel/hostel_management/Model/Role.class
+com/hostel/hostel_management/Model/User.class
+com/hostel/hostel_management/Security/JwtUtil.class
+com/hostel/hostel_management/Security/SecurityConfig.class
+com/hostel/hostel_management/HostelManagementApplication.class
